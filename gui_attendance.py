@@ -11,9 +11,9 @@ import subprocess
 
 # Database connection
 db = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="Rootpass2025",    # Enter your own password here 
+    host="localhost",       # Enter your own host here
+    user="root",            # Enter your own user here
+    password="password",    # Enter your own password here 
     database="AttendanceSystem"
 )
 cursor = db.cursor()
