@@ -3,7 +3,7 @@
 
 ### First clone the repo in git bash using: 
 ```
-git clone https://github.com/joshgrewal/facialRecognition.git
+git clone https://github.com/Jayson-Gonzalez/Facial-Recognition-Attendance-System.git
 ```
 ### Second we need to run the `requirements.txt` to install the dependencies using:
 ```
